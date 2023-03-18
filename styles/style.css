@@ -1,6 +1,6 @@
 @font-face{
-    font-family: 'Willow';
-    src: url(./assets/Tipography/Willow/WILLOW__.TTF);
+    src: url(../assets/Tipography/ITC-Willow-Font/ITC-Willow-Font/ITC\ Willow\ Font.ttf);
+    font-family: 'Willow Std Light';
 }
 :root{
     --primaryColor: #6B00AF;
@@ -13,7 +13,7 @@
     --B00: #000000;
 
     --primaryFont: 'Griffy', cursive;
-    --secondaryFont: 'Willow', sans-serif;
+    --secondaryFont: 'Willow Std Light', sans-serif;
 }
 *{
     margin: 0;
